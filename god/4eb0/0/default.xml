@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<god version="1.0"
+  xmlns="http://cjkv.smaji.org/ns/god"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://cjkv.smaji.org/ns/god https://cjkv.smaji.org/xml/1.0/xsd/god.xsd">
+  <glyph unicode="4e0b,0">
+    <stroke type="h" x="0" y="0" width="128" height="16"/>
+    <stroke type="v" x="60" y="8" width="8" height="109"/>
+    <stroke type="d" x="64" y="30" width="30" height="30"/>
+  </glyph>
+</god>
